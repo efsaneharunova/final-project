@@ -1,0 +1,14 @@
+{
+  "technology": {
+    "nameEN": "Technology",
+    "nameAZ": "Texnologiya"
+  },
+  "marketing": {
+    "nameEN": "Marketing",
+    "nameAZ": "Marketinq"
+  },
+  "business": {
+    "nameEN": "Business",
+    "nameAZ": "Biznes"
+  }
+}

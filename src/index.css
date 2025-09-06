@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  background-color: #ffffff;
+  padding-top: 80px;
+}
+#root {
+  min-height: 100vh;
+}
+
+.page-container { 
+    padding: 0 65px;
+    max-width: 100%;
+    margin: 0 auto;
+    
+}
+
+.section-content {
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
+@media (max-width: 992px) {
+    .page-container {
+        padding: 0 44px;
+    }
+}

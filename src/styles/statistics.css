@@ -1,0 +1,139 @@
+/* StatisticsSection.css */
+.stats-section {
+  padding: 80px 0;
+  margin: 50px 65px;
+  border-radius: 55px;
+  font-family: Arial, sans-serif;
+  background-color: #fdeeee;
+}
+
+.stats-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Mobile first: 1 column */
+.stats-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 30px;
+}
+
+.stats-item {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  align-items: flex-start;
+}
+
+.stats-icon-container {
+  width: 70px;
+  height: 70px;
+  background-color: #000;
+  border-radius: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.stats-icon {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+}
+
+.stats-title {
+  font-size: 20px;
+  font-weight: 700;
+  color: #212529;
+  margin-bottom: 15px;
+}
+
+.stats-description {
+  font-size: 18px;
+  color: #2f2c2c;
+  line-height: 1.6;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 876px) {
+  .stats-grid {
+    grid-template-columns: repeat(2, 1fr);
+    justify-items: center;
+  }
+}
+
+/* For screens between 576px and 875px - icon on left, text on right */
+@media (min-width: 576px) and (max-width: 875px) {
+  .stats-item {
+    flex-direction: row;
+    align-items: flex-start;
+    justify-items: center;
+    margin: 0 80px;
+    padding:20px 25px;
+  }
+  
+  .stats-icon-container {
+    margin-right: 20px;
+    margin-bottom: 0;
+    flex-shrink: 0;
+  }
+  
+  
+}
+
+/* Medium devices (tablets, 768px and up) */
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .stats-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  
+  /* Center the 4th item below the first row */
+  .stats-item:nth-child(4) {
+    grid-column: 1 / span 3;
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+  .stats-item:nth-child(4) .stats-icon-container {
+    margin-right: 0;
+    margin-bottom: 25px;
+  }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  .stats-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  
+  /* Reset the 4th item to normal grid flow */
+  .stats-item:nth-child(4) {
+    grid-column: auto;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    align-items: flex-start;
+    max-width: none;
+    margin: 0;
+  }
+  
+  .stats-item:nth-child(4) .stats-icon-container {
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+}
+
+/* For very large screens (1400px and up) */
+@media (min-width: 1400px) {
+  .stats-container {
+    max-width: 1320px;
+  }
+}

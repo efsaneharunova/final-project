@@ -1,0 +1,80 @@
+[
+    {
+      "id": 1,
+      "barImg": "https://okmedia.az/img-yeni/search-bar-okmedia.png?ver=19",
+      "img": "https://okmedia.az/img-yeni/bacararsan-az-okmedia.jpg",
+      "logoImg": "https://okmedia.az/img-yeni/bacararsan-az-okmedia-logo.png",
+      "nameAZ": "Bacararsan.az",
+      "nameEN": "Bacararsan.az",
+      "bgColor": "",
+      "contentAZ": "Bacararsan.az - Fiziki məhdudiyyətli gənclərin veb proqramlaşdırma sənətinə yiyələnməsi üçün hazırladığımız korporativ sosial məsuliyyət layihəmizdir.",
+      "contentEN": "Bacararsan.az - This is our corporate social responsibility project designed to help young people with physical disabilities master the art of web programming.",
+      "urlAZ": "https://bacararsan.az",
+      "urlEN": "https://bacararsan.az"
+    },
+    {
+      "id": 2,
+      "barImg": "https://okmedia.az/img-yeni/search-bar-okmedia.png?ver=19",
+      "img": "https://okmedia.az/img-yeni/kooperativ-mail-okmedia-layihe.jpg?=2",
+      "logoImg": "https://okmedia.az/img-yeni/kooperativ-mail-okmedia-layihe-logo.png",
+      "nameAZ": "Korporativ Email",
+      "nameEN": "Corporate Email",
+      "bgColor": "",
+      "contentAZ": "Korporativ email - (şirkət emaili) sonluğu şirkətin adına uyğun olan, şirkət və müəssisələr üçün vacib olan mail formatıdır.",
+      "contentEN": "Corporate email - (company email) is an email format that ends with the company name and is important for companies and businesses.",
+      "urlAZ": "email.okmedia.az",
+      "urlEN": "email.okmedia.az"
+    },
+    {
+      "id": 3,
+      "barImg": "https://okmedia.az/img-yeni/search-bar-okmedia.png?ver=19",
+      "img": "https://okmedia.az/img-yeni/div-okmedia-layiheler.jpg",
+      "logoImg": "https://okmedia.az/img-yeni/div-okmedia-layiheler-logo.png",
+      "nameAZ": "Div Academy",
+      "nameEN": "Div Academy",
+      "bgColor": "",
+      "contentAZ": "Div Academy - günümüzün yüksək tələb olunan rəqəmsal sahələrini müasir və yaddaqalan metodika ilə öyrədən innovativ təhsil şirkətidir.",
+      "contentEN": "Div Academy is an innovative education company that teaches today's high-demand digital fields with modern and memorable methodologies.",
+      "urlAZ": "div.edu.az",
+      "urlEN": "div.edu.az"
+    },
+    {
+      "id": 4,
+      "barImg": "https://okmedia.az/img-yeni/search-bar-okmedia.png?ver=19",
+      "img": "https://okmedia.az/img-yeni/uzman-az-okmedia-layiheler.jpg",
+      "logoImg": "https://okmedia.az/img-yeni/uzman-logo-removebg-preview.png",
+      "nameAZ": "Uzman.az",
+      "nameEN": "Uzman.az",
+      "bgColor": "",
+      "contentAZ": "Uzman.az - sənin həyat keyfiyyətini yaxşılaşdırmağa hazır olan uzman psixoloqlardan ibarət platformadır.",
+      "contentEN": "Uzman.az is a platform of expert psychologists ready to improve your quality of life.",
+      "urlAZ": "uzman.az",
+      "urlEN": "uzman.az"
+    },
+    {
+      "id": 5,
+      "barImg": "https://okmedia.az/img-yeni/search-bar-okmedia.png?ver=19",
+      "img": "https://okmedia.az/img-yeni/whm-az-okmedia-layiheler.jpg",
+      "logoImg": "",
+      "nameAZ": "WHM.AZ",
+      "nameEN": "WHM.AZ",
+      "bgColor": "#6B21A8",
+      "contentAZ": "WHM.az - hüquqi şəxslər və korporativ vebsaytlar üçün sürət optimizasiyası olunmuş və təhlükəsizliyi artırılmış hostinq servisidir.",
+      "contentEN": "WHM.az is a speed-optimized and security-enhanced hosting service for legal entities and corporate websites.",
+      "urlAZ": "whm.az",
+      "urlEN": "whm.az"
+    },
+    {
+      "id": 6,
+      "barImg": "https://okmedia.az/img-yeni/search-bar-okmedia.png?ver=19",
+      "img": "https://okmedia.az/img-yeni/okmedia-lab-gif.gif",
+      "logoImg": "https://okmedia.az/img-yeni/layihelerimiz-load%20(1).gif",
+      "nameAZ": "Okmedia Lab",
+      "nameEN": "Okmedia Lab",
+      "bgColor": "",
+      "contentAZ": "Kreativ komandamız daim yeni layihələr üzərində çalışır. Əgər bacarığına güvənirsənsə səni kəşf etməmizə yardımçı ol.",
+      "contentEN": "Our creative team is always working on new projects. If you are confident in your skills, help us discover you.",
+      "urlAZ": "bizə qoşul",
+      "urlEN": "join us"
+    }
+]

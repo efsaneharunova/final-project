@@ -1,0 +1,144 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "nameAZ": "Elxan Məmmədov",
+      "nameEN": "Elkhan Mammadov",
+      "titleAZ": "Təsisçi, <<İmaj Transport MMC>>",
+      "titleEN": "Founder, <<Imaj Transport LLC>>",
+      "contentAZ": "Əgər veb proqramlaşdırma sahəsində fərqli və səmərəli xidmət görmək istəyirsinizsə, OKmedia-nı seçin!",
+      "contentEN": "If you want to see a different and efficient service in the field of web programming, choose OKmedia!",
+      "image": "https://okmedia.az/uploads/posts/2023-02/1676485490_1675424044_screenshot-2023-02-03-153251.jpg"
+    },
+    {
+      "id": 2,
+      "nameAZ": "Dr. Mübariz Məmmədli",
+      "nameEN": "Dr. Mubariz Mammadli",
+      "titleAZ": "Həkim, <<drmubariz.az>>",
+      "titleEN": "Doctor, <<drmubariz.az>>",
+      "contentAZ": "Vebsayt yaradılmasında peşəkarların seçimi OKmedia-dır.",
+      "contentEN": "OKmedia is the choice of professionals in website creation",
+      "image": "https://okmedia.az/uploads/posts/2023-01/1674913481_1674758750_drmubariz-mubariz-bey.jpeg"
+    },
+    {
+      "id": 3,
+      "nameAZ": "Şahin Xudaverdiyev",
+      "nameEN": "Shahin Khudaverdiyev",
+      "titleAZ": "Təsisçi, Fire Universal Group",
+      "titleEN": "Founder, Fire Universal Group",
+      "contentAZ": "OKmedia ilə əməkdaşlığımız 5 ildir davam edir. Bu müddətdə şirkət bizə yalnız sayt məsələlərində deyil, digər mövzularda da dəstək olub. Şirkətimizin adından rəhbərliyə və əməkdaşlara bizə göstərdikləri diqqət və hörmətə görə təşəkkürümüzü bildirir, gələcək fəaliyyətlərində uğurlar arzulayırıq.",
+      "contentEN": "Our cooperation with OKmedia has been going on for 5 years. During this time, the company has not only helped us with website issues, but also with other issues. On behalf of our company, we express our gratitude to the company's management and employees for the attention and respect they have shown us, and we wish Okmedia success in its future endeavors.",
+      "image": "https://okmedia.az/uploads/posts/2023-02/1676485640_1674919880_ahin-bey-fug.jpg"
+    },
+    {
+      "id": 4,
+      "nameAZ": "Fuad Əfəndiyev",
+      "nameEN": "Fuad Efendiyev",
+      "titleAZ": "Təsisçi, Desjoyaux",
+      "titleEN": "Founder, Desjoyaux",
+      "contentAZ": "Desjoyaux Azərbaycan şirkəti olaraq saytımızın peşəkar dizaynına görə OKmedia-ya təşəkkür edirik.",
+      "contentEN": "We would like to thank Desjoyaux Azerbaijan company OKmedia for the professional design of our website.",
+      "image": "https://okmedia.az/uploads/posts/2023-02/1676485585_1675424439_screenshot-2023-02-03-153920.jpg"
+    },
+    {
+      "id": 5,
+      "nameAZ": "Qüdrət Yaqubov",
+      "nameEN": "Gudrat Yagubov",
+      "titleAZ": "Baş Direktor, Bioloji Təbabət KlinikasI",
+      "titleEN": "General Director, Clinic of Biological Medicine",
+      "contentAZ": "Bütün OKmedia kollektivinə təşəkkür edirəm. Qısa zamanda peşəkar iş gördünüz. Ən önəmlisi isə hər şöbəniz eyni yüksək səviyyədə xidmət göstərir.",
+      "contentEN": "I would like to thank the entire OKmedia team. You have done a professional job in a short time. Most importantly, each of your departments provides the same high level of service.",
+      "image": "https://okmedia.az/uploads/posts/2023-02/1676485359_1675424194_screenshot-2023-02-03-153603.jpg"
+    },
+    {
+      "id": 6,
+      "nameAZ": "Nüriyə Novruzova",
+      "nameEN": "Nuriya Novruzova",
+      "titleAZ": "Sədr, Azərbaycan Peşəkar Maliyyə Menecerləri Assosiasiyası",
+      "titleEN": "Chairman of the Board, Association of Professional Financial Managers of Azerbaijan",
+      "contentAZ": "OKmedia ilə uzunmüddətli əməkdaşlığımız var, APFM-in ilk rəsmi saytı bu şirkətin mütəxəssisləri tərəfindən hazırlanmışdı. Yaxınlarda saytımızı yeniləmək qərarına gəldik və yenidən onlara müraciət etdik, qısa zamanda müasir, cəlbedici və çox maraqlı versiyalar təklif olundu. Hazırlıq prosesi də razılaşdığımız vaxtdan daha az çəkdi. Öz sahələrində peşəkar olan mütəxəssislərin səyləri ilə bütün istəklərimizi reallaşdıra bildik. Əgər OKmedia-nı bir sözlə ifadə etsəydim, “Yaradıcı” sözünü seçərdim. Komandaya təşəkkür edirik və uğurlar arzulayırıq!",
+      "contentEN": "We have a long-term cooperation with OKmedia, the first official website of APFM was developed by the specialists of this company. Recently, we decided to update our website and turned to them again, and in a short time we were presented with various proposals in modern, attractive and very interesting versions in terms of style. The preparation process also took less time than agreed. With the efforts of specialists who are professionals in their fields, we were able to realize all our wishes in terms of structure and design, they approached each of our requests with understanding, took into account every detail and got a very beautifully designed, modern, content-rich website. If I could describe OKmedia in one word, I would choose the word “Creative”. We would like to thank the OKmedia team very much and wish them success in the future!",
+      "image": "https://okmedia.az/uploads/posts/2023-01/1674920549_apfm-nuriyye-xanim.jpg"
+    },
+    {
+      "id": 7,
+      "nameAZ": "Hikmət Dadaşov",
+      "nameEN": "Hikmet Dadashov",
+      "titleAZ": "İcraçı Direktor, Adv Production",
+      "titleEN": "Executive Director, Adv Production",
+      "contentAZ": "ADV Production MMC olaraq uzun müddətdir OKmedia ilə əməkdaşlıq edirik və bu əməkdaşlıqdan məmnunluğumuzu bildiririk. OKmedia ilə işləməyin əsas səbəbləri şirkətin təcrübəsi, müştəriyə verdiyi dəyər, düzgün istiqamət və operativ yanaşmasıdır. Müştəri istəklərinə və şirkətlərarası münasibətlərə verdikləri dəyər korporativ missiyanı gücləndirir. Əməkdaşlığımızın effektiv və dayanıqlı olacağına inanırıq və bu şirkəti etibarlı tərəfdaş kimi tövsiyə edirik.",
+      "contentEN": "As ADV Production LLC, we have been cooperating with OKmedia for a long time and we express our satisfaction and satisfaction with this cooperation. The main reasons for working with OKmedia are the company's experience, the value it gives to the customer, the right direction and operational approach. In addition, the values ​​they give to customer requests and inter-company interactions strengthen the corporate mission. We believe that cooperation with OKmedia will be effective and sustainable for the parties involved and we recommend this company as a reliable partner.",
+      "image": "https://okmedia.az/uploads/posts/2023-02/1676485426_1675424827_screenshot-2023-02-03-154524.jpg"
+    },
+    {
+      "id": 8,
+      "nameAZ": "Ceyhun Fətullayev",
+      "nameEN": "Jeyhun Fatullayev",
+      "titleAZ": "Direktor, «Atlant Translations MMC»",
+      "titleEN": "Director, «Atlant Translations LLC»",
+      "contentAZ": "«Atlant Translations» MMC olaraq yazılı və şifahi tərcümə xidmətləri ilə məşğul olan şirkət kimi daha peşəkar sayt yaradılması xidməti axtarırdıq və 1 il əvvəl «OKmedia» ilə tanış olduq. Bu şirkət saytımızı ən yüksək səviyyədə hazırladı və təqdim etdi. OKmedia əməkdaşlarının xoş ünsiyyəti, müştəri yönümlülüyü və yüksək peşəkarlığı sayəsində şirkətimiz internetdə tanındı. Tövsiyə edirik!",
+      "contentEN": "'Atlant Translations' LLC, as a company engaged in written and oral translation services, was looking for a more professional website creation service and 1 year ago we met a representative of 'OKmedia'. This company developed and delivered the website atlant-translations.az at the highest level, to our satisfaction and at a very reasonable price. Thanks to the pleasant communication, customer orientation and high professionalism of the 'OKmedia' employees, our company is known in search engines on the Internet. We recommend!",
+      "image": "https://okmedia.az/uploads/posts/2023-01/1674808791_ceyhun.jpg"
+    },
+    {
+      "id": 9,
+      "nameAZ": "Cabir Əsgərov",
+      "nameEN": "Jabir Asgarov",
+      "titleAZ": "Baş Direktor, «Alfa İnşaat»",
+      "titleEN": "General Director, 'Alfa Construction'",
+      "contentAZ": "OKmedia təqdim etdiyi xidmət sahələrində ixtisaslaşmış yüksək səviyyəli mütəxəssislərin qrupu tərəfindən uğurla işləri başa çatdırıb. Şirkət zəngin peşəkar bilik və təcrübəsinə görə müştəri məmnuniyyəti prinsipini önə çəkir və Alfa İnşaat şirkəti üçün çox vacib olan geniş xidmətlər təklif edib. Əlavə olaraq münasib qiymətləri və səmərəliliyi ilə də seçilir.",
+      "contentEN": "'OKmedia' has successfully completed the work presented by a group of high-level specialists specializing in the areas they provide services. The company, thanks to its rich professional knowledge and experience, has put forward the principle of customer satisfaction and provided a useful and wide range of services of great importance for Alfa Insaat company. At the same time, this company, which is distinguished by its reasonable prices, is especially distinguished by its efficiency. 'OKmedia' has made every effort to provide high-quality services to Alfa Insaat company and has directed its activities to this end, proposing optimal solutions at each stage of its services.",
+      "image": "https://okmedia.az/uploads/posts/2023-01/1674808796_cabir.jpg"
+    },
+    {
+      "id": 10,
+      "nameAZ": "Yasin Məmmədov",
+      "nameEN": "Yasin Mammadov",
+      "titleAZ": "Təsisçi, «Mülk Əmlak Agentliyi»",
+      "titleEN": "Founder, 'Mulk Real Estate Agency'",
+      "contentAZ": "OKmedia müasir xidmət sahəsində özü üçün danışa bilən bir xidmətdir. Ünsiyyətdən, qiymətlərdən və səmərəlilikdən razıyıq. Hər kəsə tövsiyə edirik.",
+      "contentEN": "OKmedia is a service that has the ability to speak for itself in the modern service field. We are satisfied with the communication, prices, and efficiency. We recommend it to everyone.",
+      "image": "https://okmedia.az/uploads/posts/2023-01/1674808720_yasin.jpg"
+    },
+    {
+      "id": 11,
+      "nameAZ": "Aslan Baxışov",
+      "nameEN": "Aslan Bakhishov",
+      "titleAZ": "Direktor, «Metas MMC»",
+      "titleEN": "Director, 'Metas LLC'",
+      "contentAZ": "Biz, «Metas» MMC, avtomobillərin buxar ilə təmizlənməsi ilə məşğuluq. 2014-cü ildə OKmedia ilə tanış olduq. Onlar bizim üçün münasib qiymətə www.metas.az saytını hazırladılar. Bir müddət sonra saytımız 2015-ci ildə MilliNet müsabiqəsində ən yaxşı saytlar arasında 3-cü yeri tutdu. Onlar çox səmərəli və effektiv iş görürlər. Hər zaman kömək etməyə hazır olmaları təqdirəlayiqdir. Hər kəsə tövsiyə edirəm. Təşəkkürlər OKmedia!",
+      "contentEN": "We, 'Metas' LLC, are engaged in steam cleaning of cars. In 2014, we met a representative of OKmedia. They built the website www.metas.az for us at a very reasonable price. After some time, our website took 3rd place among the best websites of 2015 in the MilliNet competition. They do very efficient and effective work. The attitude of the working group towards us, their readiness to help at any time are worthy of praise. I recommend them to everyone. Thanks OKmedia!",
+      "image": "https://okmedia.az/uploads/posts/2023-01/1674808654_aslan.png"
+    },
+    {
+      "id": 12,
+      "nameAZ": "Dr. Hacıyeva Günay",
+      "nameEN": "Dr. Hajiyeva Gunay",
+      "titleAZ": "Həkim, «Vaginizm.az»",
+      "titleEN": "Doctor, 'Vaginizm.az'",
+      "contentAZ": "Mən, ginekoloq Hacıyeva Günay, 2014-cü ildə müştəri kimi OKmedia-ya müraciət etdim. Qısa müddətdə, bir neçə günə, münasib qiymətə saytım hazırlandı. Saytım heç bir yorğunluq, gecikmə və çətinlik olmadan yaradıldı. Saytım 2015-ci ildə NETTY mükafatı da qazandı. Vebsayt yaratmaq istəyənlərə məsləhətim odur ki, OKmedia-nı seçsinlər, çünki onların iş keyfiyyəti fərqlənir. OKmedia, təşəkkür edirəm, sizinlə işləmək çox gözəl idi.",
+      "contentEN": "I, Hajiyeva Gunay, an obstetrician-gynecologist, applied to the website www.okmedia.az as a client in 2014. In a very short time, somewhere in a few days, at a reasonable price, the website was built for me as I wanted. My website was created without any fatigue, boredom, hurt or delay. My website also won NETTY in 2015. My advice to those who want a website is to choose OKmedia, because they are distinguished by their quality work. OKmedia, thank you, it's great that we worked with you. I wish you continued success...",
+      "image": "https://okmedia.az/uploads/posts/2023-01/1674808557_gunay.png"
+    },
+    {
+      "id": 13,
+      "nameAZ": "Aqil Soltanov",
+      "nameEN": "Agil Soltanov",
+      "titleAZ": "Direktor, «Havuç Gənc Otağı»",
+      "titleEN": "Director, «Havuch gench odasi»",
+      "contentAZ": "«Xavuc Gənc Otağı - Azərbaycan» olaraq şirkətimiz yaranandan bəri, 3 ildir ki, OKmedia ilə əməkdaşlıq edirik! İlk tanışlığımız da digər bir şirkətin tövsiyəsi ilə oldu. Təqdim olunan xidmətdən çox razıyıq!",
+      "contentEN": "As 'Xavuc Gench Odosadi - Azerbaijan', we have been cooperating with 'OKmedia' since the 3 years since our company was founded! Our first acquaintance was also through the recommendation of another close company. We are very pleased with the service they provided!",
+      "image": "https://okmedia.az/img/aqil.jpg"
+    },
+    {
+      "id": 14,
+      "nameAZ": "Cəlal Məhərrəmov",
+      "nameEN": "Jalal Maharramov",
+      "titleAZ": "Direktor, «Cəlali Tədris Mərkəzi»",
+      "titleEN": "Director, «Jalali Tədris mərkəzi »",
+      "contentAZ": "OKmedia müştəri məmnuniyyətini rəsmi şəkildə qeyd edən və müştəri istəklərini çevik şəkildə qarşılamağı bacaran çox qənaətbəxş bir qrupdur. Əgər bütün iş tərəfdaşlarımız öz işlərinə bu cür məsuliyyətlə və peşəkarlıqla yanaşsaydılar, stressimiz yarıbayarı az olardı.",
+      "contentEN": "'OKmedia' is a very satisfying group that officially celebrates the concept of customer satisfaction and meets the whims of customers with the image of an ambulance. If our business partners in every field approached their work with such responsibility, not to mention such professionalism, our stress would be reduced by half.",
+      "image": "https://okmedia.az/img/celal.jpg"
+    }
+  ]
+}

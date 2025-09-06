@@ -1,0 +1,114 @@
+[
+    {
+      "id": 1,
+      "img": "https://okmedia.az/uploads/posts/2025-05/1748413436_web_hosting.jpg",
+      "titleEN": "What is hosting?",
+      "titleAZ": "Hostinq nədir?",
+      "categoryEN": "technology",
+      "categoryAZ": "texnologiya"
+    },
+    {
+      "id": 2,
+      "img": "https://okmedia.az/uploads/posts/2023-03/medium/1679740561_future-artificial-intelligence.png",
+      "titleEN": "How can artificial intelligence affect websites?",
+      "titleAZ": "Süni intellekt vebsaytlara necə təsir edə bilər?",
+      "categoryEN": "technology",
+      "categoryAZ": "texnologiya"
+    },
+    {
+      "id": 3,
+      "img": "https://okmedia.az/uploads/posts/2023-03/1679728845_build-customer-trust-online-1.jpg",
+      "titleEN": "Earn the trust of your customers with your website.",
+      "titleAZ": "Vebsaytınızla müştərilərinizin etibarını qazanın.",
+      "categoryEN": "marketing",
+      "categoryAZ": "marketinq"
+    },
+    {
+      "id": 4,
+      "img": "https://okmedia.az/uploads/posts/2023-03/1679728278_h3-image-2-1.png",
+      "titleEN": "5 web design tips to rank first in search engines",
+      "titleAZ": "Axtarış motorlarında ilk sırada çıxmaq üçün 5 veb dizayn tövsiyəsi",
+      "categoryEN": "technology",
+      "categoryAZ": "texnologiya"
+    },
+    {
+      "id": 5,
+      "img": "https://okmedia.az/uploads/posts/2023-02/thumbs/1676715332_7-consideraciones-al-hacer-email-marketing_960x502_crop_center_11zon.jpeg",
+      "titleEN": "5 free sites where you can send bulk emails to your customers",
+      "titleAZ": "Müştərilərinə toplu email göndərə biləcəyin 5 pulsuz sayt",
+      "categoryEN": "technology",
+      "categoryAZ": "texnologiya"
+    },
+    {
+      "id": 6,
+      "img": "https://okmedia.az/uploads/posts/2023-02/medium/1676716206_mobile-friendly-design-tips-for-your-blog-or-website.jpg",
+      "titleEN": "How can you make your site mobile-friendly?",
+      "titleAZ": "Saytınızı mobil istifadəçilər üçün necə uyğun edə bilərsiniz?",
+      "categoryEN": "business",
+      "categoryAZ": "biznes"
+    },
+    {
+      "id": 7,
+      "img": "https://okmedia.az/uploads/posts/2023-02/medium/1676716004_6j8rit32ekrhw9nyfe5oyk-1.jpg",
+      "titleEN": "Increase your customers with the right website design",
+      "titleAZ": "Saytınızı mobil istifadəçilər üçün necə uyğun edə bilərsiniz?",
+      "categoryEN": "marketing",
+      "categoryAZ": "marketinq"
+    },
+    {
+      "id": 8,
+      "img": "https://okmedia.az/uploads/posts/2023-02/medium/1676715869_58-creative-marketing-ideas-for-your-small-business-thumbnail.jpg",
+      "titleEN": "5 email marketing ideas that will increase your sales",
+      "titleAZ": "Satışlarınızı artıracaq 5 e-mail marketinq ideyası",
+      "categoryEN": "marketing",
+      "categoryAZ": "marketinq"
+    },
+    {
+      "id": 9,
+      "img": "https://okmedia.az/uploads/posts/2023-02/medium/1676715628_corporate-social-responsiblity-02-1-1.png",
+      "titleEN": "4 Benefits of Corporate Social Responsibility for Your Business",
+      "titleAZ": "Korporativ Sosial Məsuliyyətin biznesinizə qazandıracağı 4 üstünlük",
+      "categoryEN": "business",
+      "categoryAZ": "biznes"
+    },
+    {
+      "id": 10,
+      "img": "https://okmedia.az/uploads/posts/2023-02/medium/1676715073_0_ou3fyhfmizunieig.png",
+      "titleEN": "What is the use of 'call to action' on websites?",
+      "titleAZ": "Vebsaytlarda 'call to action' nə işə yarayır?",
+      "categoryEN": "marketing",
+      "categoryAZ": "marketinq"
+    },
+    {
+      "id": 11,
+      "img": "https://okmedia.az/uploads/posts/2023-02/1676714414_banner-redimensionat.jpg",
+      "titleEN": "These sites will take you to another world",
+      "titleAZ": "Bu saytlar səni başqa bir dünyaya aparacaq",
+      "categoryEN": "technology",
+      "categoryAZ": "texnologiya"
+    },
+    {
+      "id": 12,
+      "img": "https://okmedia.az/uploads/posts/2023-02/1676546833_1675169421_blog.jpg",
+      "titleEN": "5 reasons to use 'Google Sheets' in your business",
+      "titleAZ": "Biznesinizdə 'Google Sheets' istifadə etməyiniz üçün 5 səbəb",
+      "categoryEN": "business",
+      "categoryAZ": "biznes"
+    },
+    {
+      "id": 13,
+      "img": "https://okmedia.az/uploads/posts/2023-01/1675079287_korperativemail.jpg",
+      "titleEN": "5 key factors that make it mandatory for you to have a corporate email",
+      "titleAZ": "Korporativ e-mailə sahib olmağınızı məcburiyyətə çevirən 5 əsas amil",
+      "categoryEN": "marketing",
+      "categoryAZ": "marketinq"
+    },
+    {
+      "id": 14,
+      "img": "https://okmedia.az/uploads/posts/2023-01/1675078993_search-engine-optimization-company.jpg",
+      "titleEN": "5 free resources to build a website without coding",
+      "titleAZ": "Kod yazmadan vebsayt hazırlaya biləcəyin 5 pulsuz mənbə",
+      "categoryEN": "technology",
+      "categoryAZ": "texnologiya"
+    }
+]
