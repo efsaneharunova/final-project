@@ -35,7 +35,7 @@ function App() {
         <Route path="/portfolio" element={<Portfolio />} />
         <Route path="/blog" element={<Blog />} />
         <Route path="/blog/:id" element={<BlogDetails />} />
-        <Route path="/category/:categoryName" element={<CategoryPage />} />
+        <Route path="/blog/category/:categoryName" element={<CategoryPage />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/reviews" element={<Reviews />} />
         <Route path="/projects" element={<Projects />} />

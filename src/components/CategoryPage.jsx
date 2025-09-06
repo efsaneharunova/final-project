@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
+import React, { useContext, useEffect, useState } from "react";
 import { useParams, Link } from "react-router-dom";
 import blogData from "../../public/data/blog.json";
 import categories from "../../public/data/categories.json";
@@ -8,29 +8,35 @@ import "../styles/blog.css";
 export default function CategoryPage() {
   const { lang } = useContext(LangContext);
   const { categoryName } = useParams(); 
-  const categoryInfo = categories[categoryName];
-  
-  const filteredBlogs = blogData.filter(
-    (blog) => blog.categoryEN.toLowerCase() === categoryName.toLowerCase()
-  );
+  const [filteredBlogs, setFilteredBlogs] = useState([]);
+
+  const categoryInfo = categories[categoryName.toLowerCase()];
+
+  useEffect(() => {
+    const blogs = blogData.filter(
+      (blog) => blog.categoryEN.toLowerCase() === categoryName.toLowerCase()
+    );
+    setFilteredBlogs(blogs);
+  }, [categoryName]);
 
   return (
     <div className="blog-section">
       <div className="blog-container">
+        {/* Breadcrumb */}
         <div className="breadcrumb">
           <Link to="/">{lang === "EN" ? "Home Page" : "Ana səhifə"}</Link> &gt;
-          <Link to="/blog">Blog</Link> &gt;
+          <Link to="/blog">{lang === "EN" ? "Blog" : "Bloq"}</Link> &gt;
           <span>{categoryInfo ? (lang === "EN" ? categoryInfo.nameEN : categoryInfo.nameAZ) : categoryName}</span>
         </div>
 
         <h1 className="category-title">
-          {categoryInfo 
-            ? (lang === "AZ" 
-                ? `${categoryInfo.nameAZ} yazıları` 
-                : `${categoryInfo.nameEN} posts`)
-            : (lang === "AZ" 
-                ? `${categoryName} yazıları` 
-                : `${categoryName} posts`)}
+          {categoryInfo
+            ? lang === "AZ" 
+              ? `${categoryInfo.nameAZ} yazıları` 
+              : `${categoryInfo.nameEN} posts`
+            : lang === "AZ" 
+              ? `${categoryName} yazıları` 
+              : `${categoryName} posts`}
         </h1>
 
         {filteredBlogs.length > 0 ? (
@@ -55,11 +61,7 @@ export default function CategoryPage() {
             ))}
           </div>
         ) : (
-          <p>
-            {lang === "AZ"
-              ? "Bu kateqoriyada yazı yoxdur."
-              : "No posts in this category."}
-          </p>
+          <p>{lang === "AZ" ? "Bu kateqoriyada yazı yoxdur." : "No posts in this category."}</p>
         )}
       </div>
     </div>
