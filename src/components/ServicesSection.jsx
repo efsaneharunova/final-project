@@ -1,13 +1,23 @@
 import React, { useContext } from 'react';
 import { useGetServiceQuery } from '../tools/api/service';
 import { LangContext } from '../context/LanguageContext'; 
+import { useNavigate } from 'react-router-dom';
 
 const ServicesSection = () => {
   const { data: service, error, isLoading } = useGetServiceQuery();
   const { lang } = useContext(LangContext); 
-  
+  const navigate = useNavigate();
+
   if (isLoading) return <div>Loading...</div>;
   if (error) return <div>Error loading features</div>;
+
+  // Map each card index to a specific route
+  const routes = [
+    '/websitedev',
+    '/webtechsupport',
+    '/corporateemail',
+    '/paymentsystems'
+  ];
 
   return (
     <>
@@ -170,6 +180,8 @@ const ServicesSection = () => {
               <div 
                 key={item.id} 
                 className={`service-card ${index % 2 === 0 ? "service-card-yellow" : "service-card-purple"}`}
+                onClick={() => navigate(routes[index])} // Navigate to specific page
+                style={{ cursor: 'pointer' }}
               >
                 <div className="service-icon">
                   <img src={item.icon} alt={lang === 'AZ' ? item.titleAz : item.titleEn} />
